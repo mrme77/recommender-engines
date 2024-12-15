@@ -3,7 +3,7 @@
 
 ###  **Overview:**
 
-This project focuses on developing a recommendation system by analyzing user's interaction with articles  on the IBM Watson Studio platformform.Through a comprehensive approach, the analysis encompasses multiple recommendation techniques, including rank-based recommendations, user-user collaborative filtering, and matrix factorization. Beginning with exploratory data analysis to understand user behavior patterns, the project progresses through increasingly complex recommendation methodologies. While content-based recommendations are explored as an additional feature, the core emphasis remains on leveraging user interaction data to generate accurate and relevant article suggestions. The ultimate goal is to enhance user engagement by connecting readers with articles that align with their interests, creating a more personalized and engaging experience.
+This project focuses on developing a recommendation system by analyzing user's interaction with articles  on the IBM Watson Studio platformform. Through a comprehensive approach, the analysis encompasses multiple recommendation techniques, including rank-based recommendations, user-user collaborative filtering, and matrix factorization. Beginning with exploratory data analysis to understand user behavior patterns, the project progresses through increasingly complex recommendation methodologies. While content-based recommendations are explored as an additional feature, the core emphasis remains on leveraging user interaction data to generate accurate and relevant article suggestions. The ultimate goal is to enhance user engagement by connecting readers with articles that align with their interests, creating a more personalized and engaging experience.
 
 ### Prerequisites
 
