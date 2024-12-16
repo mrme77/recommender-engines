@@ -23,8 +23,8 @@ import seaborn as sns
 pd.set_option('display.max_colwidth', 800)
 ```
 ### Deployment
-<ul> - Reccomendations_with_IBM.ipynb: Jupyter Notebook containings most of the code with the exception of testing code.
-<ul> - Data: This folder containes the datasets used in the Jupyter Notebook.</ul>
+<ul>Reccomendations_with_IBM.ipynb: Jupyter Notebook containings most of the code with the exception of testing code.</ul>
+<ul>Data: This folder containes the datasets used in the Jupyter Notebook.</ul>
 
 Other files:
 - reccomender_functions.py: example code previuoly developed.
@@ -41,9 +41,9 @@ Other files:
 
 
 ### Resources
-- ![Recommendation-Engine](https://www.ibm.com/think/topics/recommendation-engine/)
-- ![SVD](https://www.geeksforgeeks.org/singular-value-decomposition-svd/)
-- ![FunkSVD](https://towardsdatascience.com/funk-svd-hands-on-experience-on-starbucks-data-set-f3e0946da014/)
+- [Recommendation-Engine](https://www.ibm.com/think/topics/recommendation-engine/)
+- [SVD](https://www.geeksforgeeks.org/singular-value-decomposition-svd/)
+- [FunkSVD](https://towardsdatascience.com/funk-svd-hands-on-experience-on-starbucks-data-set-f3e0946da014/)
 ### Outputs
 Below is a screenshot of `latent features` exploration.
 ![Latent-Features](output1.png)
