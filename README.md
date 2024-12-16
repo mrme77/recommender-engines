@@ -1,4 +1,4 @@
-# Reccomender Engine
+# Recommender Engine
 ![Image](reccomender_picture.png)
 
 ###  **Overview:**
