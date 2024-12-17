@@ -36,7 +36,6 @@ Other files:
 - top_10.p: serialized object, which was saved earlier in the workflow.
 - top_20.p: serialized object, which was saved earlier in the workflow.
 - recommender_picture.png: picture file for the intro of README.
-- previous_matrix.png: picture file of a previous non binary matrix.
 - output1.png: pciture file to show latent features exploration.
 
 
